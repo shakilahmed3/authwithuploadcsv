@@ -20,7 +20,7 @@
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### Installation
-\`\`\`bash
+bash
 # Clone the repository
 git clone https://github.com/your-username/your-nextjs-project.git
 
