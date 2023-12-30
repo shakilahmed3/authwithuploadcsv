@@ -29,40 +29,35 @@ cd your-nextjs-project
 
 # Install dependencies
 npm install
-\`\`\`
 
 ## Running the Project
 
 ### Development Mode
-\`\`\`bash
+bash
 # Run the development server
 npm run dev
-\`\`\`
 Visit [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ### Production Build
-\`\`\`bash
+bash
 # Build the project
 npm run build
 
 # Start the production server
 npm start
-\`\`\`
 Visit [http://localhost:3000](http://localhost:3000) in your browser to see the production build.
 
 ## Additional Commands
 
 ### Linting
-\`\`\`bash
+bash
 # Run ESLint
 npm run lint
-\`\`\`
 
 ### Tests
-\`\`\`bash
+bash
 # Run tests
 npm test
-\`\`\`
 
 ## Customization
 
